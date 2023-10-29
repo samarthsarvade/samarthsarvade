@@ -26,7 +26,7 @@ I'm proud to showcase a few of my projects:
 
 - Agro Field Automation Control via Cloud(Link to Project 1): An innovative project that leverages cloud technology to automate agricultural processes.
 - Portfolio Website [(Link to Project 2)](https://samarth-sarvade.pages.dev/): My personal website showcasing my work in web development.
-- AI-Droid Robot
+- AI-Droid Robot [(Link to Project 2)](https://samarth-sarvade.pages.dev/assets/airobo.jpg) A personal assistant robot with multiple specificcation.
 
 Feel free to explore my repositories for more exciting projects!
 
