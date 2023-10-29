@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm [Your Name], a dedicated developer with a passion for Python and Java programming. I currently serve as the Software Developer at the Google Developer Students Club (DSC) at NKOCET Institute, where I lead exciting projects and share knowledge with fellow developers.
+I'm Samarth Sarvade, a dedicated developer with a passion for Python and Java programming. I currently serve as the Software Developer at the Google Developer Students Club (DSC) at NKOCET Institute, where I lead exciting projects and share knowledge with fellow developers.
 
 ## About Me
 
@@ -16,16 +16,17 @@ Here's a glimpse of the technologies I work with:
 - 🐍 Programming Languages: Python, Java
 - ☁️ Cloud Platform: Google Cloud Platform (GCP)
 - 🌐 Frontend: HTML, CSS, JavaScript
-- 🖥️ Backend: [List your backend technologies, e.g., Node.js, Python, Ruby on Rails]
-- 🛢️ Databases: [List your database technologies, e.g., MySQL, MongoDB, PostgreSQL]
-- 🚀 DevOps & Tools: Git, Docker, AWS
+- 🖥️ Backend: Node.js, Python
+- 🛢️ Databases: MySQL, MongoDB
+- 🚀 DevOps & Tools: Git, Docker, AWS, GCP
 
 ## My Projects
 
 I'm proud to showcase a few of my projects:
 
-- [Agro Field Automation Control via Cloud](Link to Project 1): An innovative project that leverages cloud technology to automate agricultural processes.
-- [Portfolio Website](Link to Project 2): My personal website showcasing my work in web development.
+- Agro Field Automation Control via Cloud(Link to Project 1): An innovative project that leverages cloud technology to automate agricultural processes.
+- Portfolio Website [(Link to Project 2)](https://samarth-sarvade.pages.dev/): My personal website showcasing my work in web development.
+- AI-Droid Robot
 
 Feel free to explore my repositories for more exciting projects!
 
@@ -37,9 +38,9 @@ I currently serve as the Software Developer at the Google Developer Students Clu
 
 I'm always eager to connect with fellow developers and tech enthusiasts. Reach out to me on:
 
-- 📧 Email: [Your Email Address]
-- 💬 LinkedIn: [Your LinkedIn Profile Link]
-- 🐦 Twitter: [Your Twitter Handle]
-- 🌐 Personal Website: [Your Personal Website]
+- 📧 Email: samsarnucsci2003@gmail.com
+- 💬 LinkedIn: [[Your LinkedIn Profile Link]](https://www.linkedin.com/in/samarth-sarvade-73963a233/)
+- 🐦 Twitter: [[Your Twitter Handle]](https://twitter.com/SamarthSarvade)
+- 🌐 Personal Website: [[Your Personal Website]](https://samarth-sarvade.pages.dev/)
 
 Let's collaborate, learn, and innovate together! 🚀
