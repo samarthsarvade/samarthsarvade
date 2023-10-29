@@ -41,6 +41,6 @@ I'm always eager to connect with fellow developers and tech enthusiasts. Reach o
 - 📧 Email: samsarnucsci2003@gmail.com
 - 💬 LinkedIn: https://www.linkedin.com/in/samarth-sarvade-73963a233/
 - 🐦 Twitter: https://twitter.com/SamarthSarvade
-- 🌐 Personal Website: (https://samarth-sarvade.pages.dev/
+- 🌐 Personal Website: https://samarth-sarvade.pages.dev/
 
 Let's collaborate, learn, and innovate together! 🚀
