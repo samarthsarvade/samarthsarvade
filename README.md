@@ -38,9 +38,9 @@ I currently serve as the Software Developer at the Google Developer Students Clu
 
 I'm always eager to connect with fellow developers and tech enthusiasts. Reach out to me on:
 
-- 📧 Email: samsarnucsci2003@gmail.com
-- 💬 LinkedIn: https://www.linkedin.com/in/samarth-sarvade-73963a233/
-- 🐦 Twitter: https://twitter.com/SamarthSarvade
-- 🌐 Personal Website: https://samarth-sarvade.pages.dev/
+- 📧 Email: [(Email Address)](samsarnucsci2003@gmail.com)
+- 💬 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/samarth-sarvade-73963a233/)
+- 🐦 Twitter: [(My Twitter Handle)](https://twitter.com/SamarthSarvade)
+- 🌐 Personal Website: [(Visit)](https://samarth-sarvade.pages.dev/)
 
 Let's collaborate, learn, and innovate together! 🚀
